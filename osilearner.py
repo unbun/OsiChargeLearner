@@ -1,3 +1,5 @@
+#quick demo of OsiCharger's active learning machine for 2016 Cleantech Hackathon
+
 import xlrd
 import os
 
